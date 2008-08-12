@@ -1,0 +1,9 @@
+HOW TO INSTALL
+--------------
+
+1) make
+2) make install
+
+This will install the plugin to ${HOME}/.purple/plugins.
+You don't have to restart pidgin to activate this plugin.
+

@@ -1,0 +1,12 @@
+This pidgin plugin writes your current state in a file.
+
+Following states are supported in this version:
+	On				Pidgin is running
+	off				Pidgin is not running
+	New Message		New Message received
+
+	and all other Statuses by name: for example: Away, Do Not Disturb ... (They can't be disabled.)
+
+	
+
+Homepage: http://code.google.com/p/pipe-notification/
